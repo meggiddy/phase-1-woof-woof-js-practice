@@ -1,0 +1,22 @@
+{
+  "name": "phase-1-woof-woof-js-practice",
+  "version": "1.0.0",
+  "description": "## Learning Goals",
+  "main": "index.js",
+  "scripts": {
+    "test": "json-server --watch db.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meggiddy/phase-1-woof-woof-js-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/meggiddy/phase-1-woof-woof-js-practice/issues"
+  },
+  "homepage": "https://github.com/meggiddy/phase-1-woof-woof-js-practice#readme",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
+}
