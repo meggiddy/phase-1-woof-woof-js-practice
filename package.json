@@ -4,7 +4,7 @@
   "description": "## Learning Goals",
   "main": "index.js",
   "scripts": {
-    "test": "json-server --watch db.json"
+    "start": "json-server --watch db.json"
   },
   "repository": {
     "type": "git",
